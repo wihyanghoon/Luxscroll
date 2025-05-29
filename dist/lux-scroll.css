@@ -1,0 +1,1 @@
+[data-lux]{opacity:0;transform:translateY(20px);transition:opacity .6s ease,transform .6s ease}[data-lux].lux-animate{opacity:1;transform:translateY(0)}.box{width:100px;height:100px;background:red}
